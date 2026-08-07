@@ -30,26 +30,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 😀 Face Emotion Recognition
-A real-time facial emotion recognition system using CNN and OpenCV that detects facial expressions such as happy, sad and angry using webcam input.
-
----
-
-### 📰 Fake News Detection
-A Machine Learning project that classifies news articles as Fake or Real using Natural Language Processing and TF-IDF Vectorization.
-
----
-
-### 🎯 Fit4Interview
-An AI-powered interview evaluation platform that provides technical interview assessment using Python and NLP.
-
----
-
-### 💼 Employee SQL Project
-A complete SQL-based Employee Management System demonstrating joins, CTEs, window functions, indexes, stored procedures and views.
-
 
 
 
@@ -92,32 +72,38 @@ A complete SQL-based Employee Management System demonstrating joins, CTEs, windo
 
 </p> -->
 
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/ml-nilika">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/ml-nilika" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
 <a href="mailto:aiml.nilika.das@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/nilika-das-b58619257/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.hackerrank.com/profile/nilikadas2004" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
----
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i> 🚀
+</p>
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+<p align="center">
+⭐ Thank you for visiting my profile! ⭐
+</p>
