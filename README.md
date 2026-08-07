@@ -94,13 +94,7 @@
 
 </p>
 
-<p align="center">
-<i>"Code. Learn. Build. Repeat."</i> 🚀
-</p>
 
-<p align="center">
-<i>"Code. Learn. Build. Repeat."</i> 🚀
-</p>
 
 ---
 
