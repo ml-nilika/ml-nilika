@@ -114,10 +114,4 @@
 ⭐ Thanks for visiting my profile! ⭐
 </p>
 
-<p align="center">
-  <i>"Code. Learn. Build. Repeat."</i> 🚀
-</p>
 
-<p align="center">
-⭐ Thank you for visiting my profile! ⭐
-</p>
