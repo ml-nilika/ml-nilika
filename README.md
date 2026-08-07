@@ -1,4 +1,8 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" alt="Banner" width="100%">
+</p>
+
+# Hi there 👋 I'm Nilika Das
 
 <!--
 **ml-nilika/ml-nilika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
