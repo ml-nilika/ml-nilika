@@ -76,40 +76,27 @@
 
 <p align="center">
 
-<a href="https://github.com/ml-nilika" target="_blank">
-<img src="https://cdn.simpleicons.org/github/white" height="48"/>
+<a href="https://github.com/ml-nilika">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:aiml.nilika.das@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" height="48"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/nilika-das-b58619257/" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="48"/>
+<a href="https://www.linkedin.com/in/nilika-das-b58619257/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/profile/nilikadas2004" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="48"/>
+<a href="https://www.hackerrank.com/profile/nilikadas2004">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
-
-<b>GitHub</b> •
-<b>Gmail</b> •
-<b>LinkedIn</b> •
-<b>HackerRank</b>
-
+<i>"Code. Learn. Build. Repeat."</i> 🚀
 </p>
-
----
 
 <p align="center">
 <i>"Code. Learn. Build. Repeat."</i> 🚀
