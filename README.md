@@ -50,7 +50,7 @@ An AI-powered interview evaluation platform that provides technical interview as
 ### 💼 Employee SQL Project
 A complete SQL-based Employee Management System demonstrating joins, CTEs, window functions, indexes, stored procedures and views.
 
----
+
 
 
 
@@ -62,7 +62,7 @@ A complete SQL-based Employee Management System demonstrating joins, CTEs, windo
 
 </p> -->
 
----
+
 
 
 
@@ -72,7 +72,7 @@ A complete SQL-based Employee Management System demonstrating joins, CTEs, windo
 
 </p> -->
 
----
+
 
 
 <!-- <p align="center">## 📈 Contribution Graph
@@ -82,7 +82,7 @@ A complete SQL-based Employee Management System demonstrating joins, CTEs, windo
 
 </p> -->
 
----
+
 
 
 
