@@ -52,45 +52,45 @@ A complete SQL-based Employee Management System demonstrating joins, CTEs, windo
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+
+<!-- <p align="center"> ## 📊 GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ml-nilika&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ml-nilika&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
-## 🔥 GitHub Streak
 
-<p align="center">
+
+<!-- <p align="center">## 🔥 GitHub Streak
 
 <img src="https://streak-stats.demolab.com?user=ml-nilika&theme=tokyonight&hide_border=true"/>
 
-</p>
+</p> -->
 
 ---
 
-## 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">## 📈 Contribution Graph
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ml-nilika&theme=tokyo-night"/>
 
-</p>
+</p> -->
 
 ---
 
-## 👀 Visitor Counter
 
-<p align="center">
+
+<!-- <p align="center">## 👀 Visitor Counter
 
 <img src="https://komarev.com/ghpvc/?username=ml-nilika&label=Profile%20Views&color=0e75b6&style=flat"/>
 
-</p>
+</p> -->
 
 ---
 
